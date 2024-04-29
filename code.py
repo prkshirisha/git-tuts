@@ -1,0 +1,1 @@
+print("Vamshi Bhavani + Entry Course") # type: ignore
